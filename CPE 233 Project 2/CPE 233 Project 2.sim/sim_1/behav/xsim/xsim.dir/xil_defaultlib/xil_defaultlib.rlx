@@ -1,0 +1,11 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+C:/Users/jtsoo/CPE 233 Project 2/CPE 233 Project 2.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,uvm,,,,,,
+C:/Users/jtsoo/CPE 233 Project 2/CPE 233 Project 2.srcs/sim_1/new/expTopSim.sv,1619073029,systemVerilog,,,,expTopSim,,uvm,,,,,,
+C:/Users/jtsoo/CPE 233 Project 2/CPE 233 Project 2.srcs/sources_1/new/PC_MOD.sv,1619065523,systemVerilog,,C:/Users/jtsoo/CPE 233 Project 2/CPE 233 Project 2.srcs/sources_1/new/experiment2Top.sv,,PC_MOD,,uvm,,,,,,
+C:/Users/jtsoo/CPE 233 Project 2/CPE 233 Project 2.srcs/sources_1/new/experiment2Top.sv,1619065513,systemVerilog,,C:/Users/jtsoo/Downloads/otter_memory_v1_06.sv,,experiment2Top,,uvm,,,,,,
+C:/Users/jtsoo/Downloads/mux_4t1_nb_v1_06.v,1619046784,verilog,,C:/Users/jtsoo/Downloads/reg_nb_v1_03.v,,mux_4t1_nb,,uvm,,,,,,
+C:/Users/jtsoo/Downloads/otter_memory_v1_06.sv,1619050301,systemVerilog,,C:/Users/jtsoo/CPE 233 Project 2/CPE 233 Project 2.srcs/sim_1/new/expTopSim.sv,,Memory,,uvm,,,,,,
+C:/Users/jtsoo/Downloads/reg_nb_v1_03.v,1618630849,verilog,,,,reg_nb,,uvm,,,,,,
