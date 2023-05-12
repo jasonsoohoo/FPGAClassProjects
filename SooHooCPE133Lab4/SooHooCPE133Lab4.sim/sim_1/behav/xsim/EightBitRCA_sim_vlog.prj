@@ -1,0 +1,12 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  \
+"../../../../../SooHooCPE133Lab3/SooHooCPE133Lab3.srcs/sources_1/new/RCA_1B.sv" \
+"../../../../../SooHooCPE133Lab3/SooHooCPE133Lab3.srcs/sources_1/new/RCA_4B.sv" \
+"../../../../SooHooCPE133Lab4.srcs/sources_1/new/RCA_8B.sv" \
+"../../../../SooHooCPE133Lab4.srcs/sim_1/new/EightBitRCA_sim.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

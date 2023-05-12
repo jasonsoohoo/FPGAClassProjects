@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/jtsoo/SooHooCPE133Lab6/SooHooCPE133Lab6.sim/sim_1/impl/func/xsim/Problem3SevenSegment_func_impl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FourTo7SegementDecoder
+INFO: [VRFC 10-311] analyzing module Problem3SevenSegment
+INFO: [VRFC 10-311] analyzing module glbl

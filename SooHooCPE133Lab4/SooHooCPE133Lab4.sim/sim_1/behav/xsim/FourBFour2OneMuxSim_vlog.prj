@@ -1,0 +1,12 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  \
+"../../../../SooHooCPE133Lab4.srcs/sources_1/new/FourBitFourToOneMux.sv" \
+"../../../../SooHooCPE133Lab4.srcs/sources_1/new/FourToOneMux.sv" \
+"../../../../../SooHooCPE133Lab2/SooHooCPE133Lab2.srcs/sources_1/new/TwoToOneMux.sv" \
+"../../../../SooHooCPE133Lab4.srcs/sim_1/new/FourBFour2OneMuxSim.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

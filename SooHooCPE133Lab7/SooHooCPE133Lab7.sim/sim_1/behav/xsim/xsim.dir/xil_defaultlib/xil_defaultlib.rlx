@@ -1,0 +1,15 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+C:/Users/jtsoo/SooHooCPE133Lab6/SooHooCPE133Lab6.srcs/sources_1/new/Problem1FourBitCounter.sv,1614842698,systemVerilog,,C:/Users/jtsoo/SooHooCPE133Lab6/SooHooCPE133Lab6.srcs/sources_1/new/Problem2ClockDivider.sv,,Problem1FourBitCounter,,uvm,,,,,,
+C:/Users/jtsoo/SooHooCPE133Lab6/SooHooCPE133Lab6.srcs/sources_1/new/Problem2ClockDivider.sv,1615270863,systemVerilog,,C:/Users/jtsoo/SooHooCPE133Lab6/SooHooCPE133Lab6.srcs/sources_1/new/d_ff.sv,,Problem2ClockDivider,,uvm,,,,,,
+C:/Users/jtsoo/SooHooCPE133Lab6/SooHooCPE133Lab6.srcs/sources_1/new/d_ff.sv,1614842146,systemVerilog,,C:/Users/jtsoo/SooHooCPE133Lab7/SooHooCPE133Lab7.srcs/sources_1/new/Problem1FSMSequencer.sv,,d_ff,,uvm,,,,,,
+C:/Users/jtsoo/SooHooCPE133Lab6/SooHooCPE133Lab6.srcs/sources_1/new/jk_ff.sv,1614821946,systemVerilog,,C:/Users/jtsoo/SooHooCPE133Lab6/SooHooCPE133Lab6.srcs/sources_1/new/jk_ff_wLogic.sv,,jk_ff,,uvm,,,,,,
+C:/Users/jtsoo/SooHooCPE133Lab6/SooHooCPE133Lab6.srcs/sources_1/new/jk_ff_wLogic.sv,1614822086,systemVerilog,,C:/Users/jtsoo/SooHooCPE133Lab6/SooHooCPE133Lab6.srcs/sources_1/new/up_down_logic.sv,,jk_ff_wLogic,,uvm,,,,,,
+C:/Users/jtsoo/SooHooCPE133Lab6/SooHooCPE133Lab6.srcs/sources_1/new/up_down_logic.sv,1614842698,systemVerilog,,C:/Users/jtsoo/SooHooCPE133Lab7/SooHooCPE133Lab7.srcs/sources_1/new/Problem1FSMSequencer.sv,,up_down_logic,,uvm,,,,,,
+C:/Users/jtsoo/SooHooCPE133Lab7/SooHooCPE133Lab7.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,uvm,,,,,,
+C:/Users/jtsoo/SooHooCPE133Lab7/SooHooCPE133Lab7.srcs/sim_1/new/BenchProblem1.sv,1615497940,systemVerilog,,,,BenchProblem1,,uvm,,,,,,
+C:/Users/jtsoo/SooHooCPE133Lab7/SooHooCPE133Lab7.srcs/sources_1/new/BenchFSMSequencer.sv,1615282804,systemVerilog,,,,BenchFSMSequencer,,uvm,,,,,,
+C:/Users/jtsoo/SooHooCPE133Lab7/SooHooCPE133Lab7.srcs/sources_1/new/FSMSequencer.sv,1615369038,systemVerilog,,C:/Users/jtsoo/SooHooCPE133Lab7/SooHooCPE133Lab7.srcs/sources_1/new/Problem1FSMSequencer.sv,,FSMSequencer,,uvm,,,,,,
+C:/Users/jtsoo/SooHooCPE133Lab7/SooHooCPE133Lab7.srcs/sources_1/new/Problem1FSMSequencer.sv,1615373350,systemVerilog,,C:/Users/jtsoo/SooHooCPE133Lab7/SooHooCPE133Lab7.srcs/sim_1/new/BenchProblem1.sv,,Problem1FSMSequencer,,uvm,,,,,,

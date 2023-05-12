@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Wed Mar 17 17:59:24 2021
+# Process ID: 36284
+# Current directory: C:/Users/jtsoo/SooHooCPE133Lab8/SooHooCPE133Lab8.runs/synth_1
+# Command line: vivado.exe -log Problem1SequenceDetectorPlus.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source Problem1SequenceDetectorPlus.tcl
+# Log file: C:/Users/jtsoo/SooHooCPE133Lab8/SooHooCPE133Lab8.runs/synth_1/Problem1SequenceDetectorPlus.vds
+# Journal file: C:/Users/jtsoo/SooHooCPE133Lab8/SooHooCPE133Lab8.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source Problem1SequenceDetectorPlus.tcl -notrace

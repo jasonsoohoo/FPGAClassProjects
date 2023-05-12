@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Mon Feb 15 00:07:51 2021
+# Process ID: 48944
+# Current directory: C:/Users/jtsoo/SooHooCPE133Lab4/SooHooCPE133Lab4.runs/synth_1
+# Command line: vivado.exe -log RCA_8B.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source RCA_8B.tcl
+# Log file: C:/Users/jtsoo/SooHooCPE133Lab4/SooHooCPE133Lab4.runs/synth_1/RCA_8B.vds
+# Journal file: C:/Users/jtsoo/SooHooCPE133Lab4/SooHooCPE133Lab4.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source RCA_8B.tcl -notrace

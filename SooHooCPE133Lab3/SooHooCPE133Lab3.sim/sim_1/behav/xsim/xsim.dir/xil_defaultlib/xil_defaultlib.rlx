@@ -1,0 +1,15 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+C:/Users/jtsoo/SooHooCPE133Lab2/SooHooCPE133Lab2.srcs/sources_1/new/Four2To1Muxs.sv,1612678604,systemVerilog,,C:/Users/jtsoo/SooHooCPE133Lab2/SooHooCPE133Lab2.srcs/sources_1/new/FourInvert.sv,,Four2To1Muxs,,uvm,,,,,,
+C:/Users/jtsoo/SooHooCPE133Lab2/SooHooCPE133Lab2.srcs/sources_1/new/FourInvert.sv,1612678604,systemVerilog,,C:/Users/jtsoo/SooHooCPE133Lab3/SooHooCPE133Lab3.srcs/sources_1/new/Problem1RCA.sv,,FourInvert,,uvm,,,,,,
+C:/Users/jtsoo/SooHooCPE133Lab2/SooHooCPE133Lab2.srcs/sources_1/new/TwoToOneMux.sv,1612678604,systemVerilog,,C:/Users/jtsoo/SooHooCPE133Lab3/SooHooCPE133Lab3.srcs/sim_1/new/problem1sim.sv,,TwoToOneMux,,uvm,,,,,,
+C:/Users/jtsoo/SooHooCPE133Lab3/SooHooCPE133Lab3.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,uvm,,,,,,
+C:/Users/jtsoo/SooHooCPE133Lab3/SooHooCPE133Lab3.srcs/sim_1/new/err_chk_sim.sv,1612770186,systemVerilog,,,,err_chk_sim,,uvm,,,,,,
+C:/Users/jtsoo/SooHooCPE133Lab3/SooHooCPE133Lab3.srcs/sim_1/new/problem1sim.sv,1612770800,systemVerilog,,,,problem1sim,,uvm,,,,,,
+C:/Users/jtsoo/SooHooCPE133Lab3/SooHooCPE133Lab3.srcs/sim_1/new/rca_sim.sv,1612769435,systemVerilog,,,,rca_sim,,uvm,,,,,,
+C:/Users/jtsoo/SooHooCPE133Lab3/SooHooCPE133Lab3.srcs/sources_1/new/ERROR_CHK.sv,1612766321,systemVerilog,,C:/Users/jtsoo/SooHooCPE133Lab2/SooHooCPE133Lab2.srcs/sources_1/new/Four2To1Muxs.sv,,ERROR_CHK,,uvm,,,,,,
+C:/Users/jtsoo/SooHooCPE133Lab3/SooHooCPE133Lab3.srcs/sources_1/new/Problem1RCA.sv,1612771768,systemVerilog,,C:/Users/jtsoo/SooHooCPE133Lab3/SooHooCPE133Lab3.srcs/sources_1/new/RCA_1B.sv,,Problem1RCA,,uvm,,,,,,
+C:/Users/jtsoo/SooHooCPE133Lab3/SooHooCPE133Lab3.srcs/sources_1/new/RCA_1B.sv,1612696126,systemVerilog,,C:/Users/jtsoo/SooHooCPE133Lab3/SooHooCPE133Lab3.srcs/sources_1/new/RCA_4B.sv,,RCA_1B,,uvm,,,,,,
+C:/Users/jtsoo/SooHooCPE133Lab3/SooHooCPE133Lab3.srcs/sources_1/new/RCA_4B.sv,1612696526,systemVerilog,,C:/Users/jtsoo/SooHooCPE133Lab2/SooHooCPE133Lab2.srcs/sources_1/new/TwoToOneMux.sv,,RCA_4B,,uvm,,,,,,

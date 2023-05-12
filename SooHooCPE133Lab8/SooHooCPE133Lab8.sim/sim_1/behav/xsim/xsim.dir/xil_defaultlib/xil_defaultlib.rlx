@@ -1,0 +1,13 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+C:/Users/jtsoo/SooHooCPE133Lab7/SooHooCPE133Lab7.srcs/sources_1/new/BenchFSMSequencer.sv,1615713450,systemVerilog,,,,BenchFSMSequencer,,uvm,../../../../SooHooCPE133Lab8.gen/sources_1/ip/clk_wiz_0,,,,,
+C:/Users/jtsoo/SooHooCPE133Lab8/SooHooCPE133Lab8.gen/sources_1/ip/clk_wiz_0/clk_wiz_0.v,1615696991,verilog,,,,clk_wiz_0,,uvm,../../../../SooHooCPE133Lab8.gen/sources_1/ip/clk_wiz_0,,,,,
+C:/Users/jtsoo/SooHooCPE133Lab8/SooHooCPE133Lab8.gen/sources_1/ip/clk_wiz_0/clk_wiz_0_clk_wiz.v,1615696990,verilog,,C:/Users/jtsoo/SooHooCPE133Lab8/SooHooCPE133Lab8.gen/sources_1/ip/clk_wiz_0/clk_wiz_0.v,,clk_wiz_0_clk_wiz,,uvm,../../../../SooHooCPE133Lab8.gen/sources_1/ip/clk_wiz_0,,,,,
+C:/Users/jtsoo/SooHooCPE133Lab8/SooHooCPE133Lab8.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,uvm,,,,,,
+C:/Users/jtsoo/SooHooCPE133Lab8/SooHooCPE133Lab8.srcs/sim_1/new/BenchFSMSequncerSecondary.sv,1615781951,systemVerilog,,,,BenchFSMSequncerSecondary,,uvm,../../../../SooHooCPE133Lab8.gen/sources_1/ip/clk_wiz_0,,,,,
+C:/Users/jtsoo/SooHooCPE133Lab8/SooHooCPE133Lab8.srcs/sim_1/new/BenchProblem1FSPlus.sv,1616025880,systemVerilog,,,,BenchProblem1FSPlus,,uvm,../../../../SooHooCPE133Lab8.gen/sources_1/ip/clk_wiz_0,,,,,
+C:/Users/jtsoo/SooHooCPE133Lab8/SooHooCPE133Lab8.srcs/sources_1/new/FSM_Prime.sv,1615780842,systemVerilog,,C:/Users/jtsoo/SooHooCPE133Lab8/SooHooCPE133Lab8.srcs/sources_1/new/FSM_Secondary.sv,,FSM_Prime,,uvm,../../../../SooHooCPE133Lab8.gen/sources_1/ip/clk_wiz_0,,,,,
+C:/Users/jtsoo/SooHooCPE133Lab8/SooHooCPE133Lab8.srcs/sources_1/new/FSM_Secondary.sv,1615781321,systemVerilog,,C:/Users/jtsoo/SooHooCPE133Lab8/SooHooCPE133Lab8.srcs/sources_1/new/Problem1SequenceDetectorPlus.sv,,FSM_Secondary,,uvm,../../../../SooHooCPE133Lab8.gen/sources_1/ip/clk_wiz_0,,,,,
+C:/Users/jtsoo/SooHooCPE133Lab8/SooHooCPE133Lab8.srcs/sources_1/new/Problem1SequenceDetectorPlus.sv,1616029108,systemVerilog,,C:/Users/jtsoo/SooHooCPE133Lab8/SooHooCPE133Lab8.srcs/sim_1/new/BenchProblem1FSPlus.sv,,Problem1SequenceDetectorPlus,,uvm,../../../../SooHooCPE133Lab8.gen/sources_1/ip/clk_wiz_0,,,,,

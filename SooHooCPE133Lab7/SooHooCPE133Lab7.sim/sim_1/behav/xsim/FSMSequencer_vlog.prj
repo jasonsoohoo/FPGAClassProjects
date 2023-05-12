@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  \
+"../../../../../SooHooCPE133Lab6/SooHooCPE133Lab6.srcs/sources_1/new/d_ff.sv" \
+"../../../../SooHooCPE133Lab7.srcs/sources_1/new/FSMSequencer.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

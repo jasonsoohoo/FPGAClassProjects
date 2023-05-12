@@ -1,0 +1,15 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  --include "../../../../SooHooCPE133Lab8.gen/sources_1/ip/clk_wiz_0" \
+"../../../../SooHooCPE133Lab8.gen/sources_1/ip/clk_wiz_0/clk_wiz_0_clk_wiz.v" \
+"../../../../SooHooCPE133Lab8.gen/sources_1/ip/clk_wiz_0/clk_wiz_0.v" \
+
+sv xil_defaultlib  --include "../../../../SooHooCPE133Lab8.gen/sources_1/ip/clk_wiz_0" \
+"../../../../SooHooCPE133Lab8.srcs/sources_1/new/FSM_Prime.sv" \
+"../../../../SooHooCPE133Lab8.srcs/sources_1/new/FSM_Secondary.sv" \
+"../../../../SooHooCPE133Lab8.srcs/sources_1/new/Problem1SequenceDetectorPlus.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

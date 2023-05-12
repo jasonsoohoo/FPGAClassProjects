@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Wed Apr 21 15:55:43 2021
+# Process ID: 25868
+# Current directory: C:/Users/jtsoo/SooHooCPE233Experiment1/SooHooCPE233Experiment1.runs/impl_1
+# Command line: vivado.exe -log experiment1TOP.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source experiment1TOP.tcl -notrace
+# Log file: C:/Users/jtsoo/SooHooCPE233Experiment1/SooHooCPE233Experiment1.runs/impl_1/experiment1TOP.vdi
+# Journal file: C:/Users/jtsoo/SooHooCPE233Experiment1/SooHooCPE233Experiment1.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source experiment1TOP.tcl -notrace

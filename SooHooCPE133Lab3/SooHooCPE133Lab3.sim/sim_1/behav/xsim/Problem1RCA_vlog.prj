@@ -1,0 +1,15 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  \
+"../../../../SooHooCPE133Lab3.srcs/sources_1/new/ERROR_CHK.sv" \
+"../../../../../SooHooCPE133Lab2/SooHooCPE133Lab2.srcs/sources_1/new/Four2To1Muxs.sv" \
+"../../../../../SooHooCPE133Lab2/SooHooCPE133Lab2.srcs/sources_1/new/FourInvert.sv" \
+"../../../../SooHooCPE133Lab3.srcs/sources_1/new/RCA_1B.sv" \
+"../../../../SooHooCPE133Lab3.srcs/sources_1/new/RCA_4B.sv" \
+"../../../../../SooHooCPE133Lab2/SooHooCPE133Lab2.srcs/sources_1/new/TwoToOneMux.sv" \
+"../../../../SooHooCPE133Lab3.srcs/sources_1/new/Problem1RCA.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

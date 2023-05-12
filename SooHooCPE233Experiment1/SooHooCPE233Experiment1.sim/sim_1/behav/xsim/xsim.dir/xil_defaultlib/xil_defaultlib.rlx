@@ -1,0 +1,11 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+C:/Users/jtsoo/Downloads/clk_2n_div_test_v1_01.v,1618637391,verilog,,C:/Users/jtsoo/Downloads/mux_2t1_nb_v1_04.v,,clk_2n_div_test,,uvm,,,,,,
+C:/Users/jtsoo/Downloads/mux_2t1_nb_v1_04.v,1618715102,verilog,,C:/Users/jtsoo/Downloads/rca_nb_v1_03.v,,mux_2t1_nb,,uvm,,,,,,
+C:/Users/jtsoo/Downloads/rca_nb_v1_03.v,1618718308,verilog,,C:/Users/jtsoo/Downloads/reg_nb_v1_03.v,,rca_nb,,uvm,,,,,,
+C:/Users/jtsoo/Downloads/reg_nb_v1_03.v,1618630849,verilog,,C:/Users/jtsoo/Downloads/univ_sseg_v1_05.v,,reg_nb,,uvm,,,,,,
+C:/Users/jtsoo/Downloads/univ_sseg_v1_05.v,1618719755,verilog,,,,clk_divder;cnt_convert_14b;cnt_convert_7b;univ_sseg,,uvm,,,,,,
+C:/Users/jtsoo/SooHooCPE233Experiment1/SooHooCPE233Experiment1.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,uvm,,,,,,
+C:/Users/jtsoo/SooHooCPE233Experiment1/SooHooCPE233Experiment1.srcs/sources_1/new/experiment1TOP.sv,1618725381,systemVerilog,,,,experiment1TOP,,uvm,,,,,,

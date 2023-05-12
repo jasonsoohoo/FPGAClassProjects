@@ -1,0 +1,16 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../../Downloads/clk_2n_div_test_v1_01.v" \
+"../../../../../Downloads/mux_2t1_nb_v1_04.v" \
+"../../../../../Downloads/rca_nb_v1_03.v" \
+"../../../../../Downloads/reg_nb_v1_03.v" \
+"../../../../../Downloads/univ_sseg_v1_05.v" \
+
+sv xil_defaultlib  \
+"../../../../SooHooCPE233Experiment1.srcs/sources_1/new/experiment1TOP.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

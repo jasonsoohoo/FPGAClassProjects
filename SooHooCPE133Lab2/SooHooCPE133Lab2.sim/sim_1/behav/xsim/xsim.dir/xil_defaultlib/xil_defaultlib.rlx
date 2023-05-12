@@ -1,0 +1,16 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+C:/Users/jtsoo/SooHooCPE133Lab2/SooHooCPE133Lab2.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,uvm,,,,,,
+C:/Users/jtsoo/SooHooCPE133Lab2/SooHooCPE133Lab2.srcs/sim_1/new/inversion_sim.sv,1612590070,systemVerilog,,,,inversion_sim,,uvm,,,,,,
+C:/Users/jtsoo/SooHooCPE133Lab2/SooHooCPE133Lab2.srcs/sim_1/new/mux_sim.sv,1612592655,systemVerilog,,,,mux_sim,,uvm,,,,,,
+C:/Users/jtsoo/SooHooCPE133Lab2/SooHooCPE133Lab2.srcs/sim_1/new/nand_gate_sim.sv,1612590960,systemVerilog,,,,nand_gate_sim,,uvm,,,,,,
+C:/Users/jtsoo/SooHooCPE133Lab2/SooHooCPE133Lab2.srcs/sim_1/new/problem1_sim.sv,1612593675,systemVerilog,,,,problem1_sim,,uvm,,,,,,
+C:/Users/jtsoo/SooHooCPE133Lab2/SooHooCPE133Lab2.srcs/sim_1/new/xor_gate_sim.sv,1612591327,systemVerilog,,,,xor_gate_sim,,uvm,,,,,,
+C:/Users/jtsoo/SooHooCPE133Lab2/SooHooCPE133Lab2.srcs/sources_1/new/Four2To1Muxs.sv,1612592029,systemVerilog,,C:/Users/jtsoo/SooHooCPE133Lab2/SooHooCPE133Lab2.srcs/sources_1/new/FourAndGates.sv,,Four2To1Muxs,,uvm,,,,,,
+C:/Users/jtsoo/SooHooCPE133Lab2/SooHooCPE133Lab2.srcs/sources_1/new/FourAndGates.sv,1612297267,systemVerilog,,C:/Users/jtsoo/SooHooCPE133Lab2/SooHooCPE133Lab2.srcs/sources_1/new/FourInvert.sv,,FourAndGates,,uvm,,,,,,
+C:/Users/jtsoo/SooHooCPE133Lab2/SooHooCPE133Lab2.srcs/sources_1/new/FourInvert.sv,1612167637,systemVerilog,,C:/Users/jtsoo/SooHooCPE133Lab2/SooHooCPE133Lab2.srcs/sources_1/new/FourXorGates.sv,,FourInvert,,uvm,,,,,,
+C:/Users/jtsoo/SooHooCPE133Lab2/SooHooCPE133Lab2.srcs/sources_1/new/FourXorGates.sv,1612297345,systemVerilog,,C:/Users/jtsoo/SooHooCPE133Lab2/SooHooCPE133Lab2.srcs/sources_1/new/Problem1MuxCircuit.sv,,FourXorGates,,uvm,,,,,,
+C:/Users/jtsoo/SooHooCPE133Lab2/SooHooCPE133Lab2.srcs/sources_1/new/Problem1MuxCircuit.sv,1612593476,systemVerilog,,C:/Users/jtsoo/SooHooCPE133Lab2/SooHooCPE133Lab2.srcs/sources_1/new/TwoToOneMux.sv,,Problem1MuxCircuit,,uvm,,,,,,
+C:/Users/jtsoo/SooHooCPE133Lab2/SooHooCPE133Lab2.srcs/sources_1/new/TwoToOneMux.sv,1612298262,systemVerilog,,C:/Users/jtsoo/SooHooCPE133Lab2/SooHooCPE133Lab2.srcs/sim_1/new/problem1_sim.sv,,TwoToOneMux,,uvm,,,,,,
